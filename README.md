@@ -9,7 +9,7 @@ Pada tutorial ini Anda akan mempelajari penggunaan bahasa pemrograman Java secar
 
 **Jika Anda ingin membaca seluruh tutorial silahkan menuju ke [kelastutorial.com/java](https://kelastutorial.com/java).**
 
-**Kelastutorial menggunakan [GitHub issues](https://github.com/kelastutorial/html-tutorial/issues) untuk me-request tutorial dan memperbaikinya.**
+**Kelastutorial menggunakan [GitHub issues](https://github.com/kelastutorial/java-tutorial/issues) untuk me-request tutorial dan memperbaikinya.**
 
 ## Tutorial Bahasa Pemrograman Java
 
