@@ -26,7 +26,7 @@ Dibawah ini adalah syllabus tutorial Java :
 
 **Java Dasar**
 * [Syntax Dasar Java](https://kelastutorial.com/java/)
-* [Objek dan Class Java](https://kelastutorial.com/java
+* [Objek dan Class Java](https://kelastutorial.com/java)
 * [Tipe Data Java](https://kelastutorial.com/java)
 * [Variabel Java](https://kelastutorial.com/java)
 * [Modifier Java](https://kelastutorial.com/java)
